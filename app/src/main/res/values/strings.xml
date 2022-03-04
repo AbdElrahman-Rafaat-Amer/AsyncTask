@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AsyncTaskDemo</string>
+    <string name="url">Enter your URL</string>
+    <string name="download_button">Download</string>
+    <string name="save_button">Save</string>
+    <string name="download_success">Download Success</string>
+    <string name="load_button">Load</string>
+</resources>
